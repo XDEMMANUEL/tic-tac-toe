@@ -19,7 +19,7 @@ body {
 
 #title {
     font-size: 45px;
-    background: color #2f4f4f; 
+    background: color #4d5a5a; 
     color: #eee888;
     min-width: 80vw;
     margin: 10px;
@@ -28,11 +28,11 @@ body {
 
 #display {
     min-width: 300px;
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 5px;
     font-size: 20px;
     padding: 20px;
-    color: white;
+    color: #eee888;
     text-align: center;
 }
 
@@ -58,6 +58,6 @@ body {
 }
 
 button {
-    color: blue;
+    color: black;
 }
 
